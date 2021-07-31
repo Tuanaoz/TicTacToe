@@ -1,8 +1,16 @@
 # TicTacToe AI
 
+My first AI project
+
 Implemented TicTacToe game. User play against computer. **Minimax** Algorihm is used for the computer's moves.
 
-##### How to run?
+##### What did I learn?
+
+* Data Structures: 
+* AI: 
+* UI: 
+
+##### How can I run this project?
 ``` bash
 python3 tictactoe.py
 ```
