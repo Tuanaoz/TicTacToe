@@ -9,6 +9,7 @@ Implemented TicTacToe game. User play against computer. **Minimax** Algorihm is 
 * Data Structures: 
 * AI: 
 * UI: 
+* Git:
 
 ##### How can I run this project?
 ``` bash
