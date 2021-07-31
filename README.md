@@ -6,4 +6,4 @@ Implemented TicTacToe game. User play against computer. **Minimax** Algorihm is 
 ``` bash
 python3 tictactoe.py
 ```
-incluenced by: https://www.youtube.com/watch?v=5s_lGC2sxwQ&t=39s
+influenced by: https://www.youtube.com/watch?v=5s_lGC2sxwQ&t=39s
